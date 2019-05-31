@@ -3,7 +3,7 @@
 ---
 
 $root-font-family: Georgia;
-$sidebar-bg-color: #2b442f;
+$sidebar-bg-color: lighten(#2b442f, 20%);
 $link-color: #ac4142;
 $sidebar-sticky: false;
 @import "hydeout";
