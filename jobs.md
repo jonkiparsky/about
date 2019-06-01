@@ -1,5 +1,6 @@
 ---
-title: Job posting requirements
+title: Posting jobs
+sidebar_link: true
 ---
 
 The Boston Python group is focused on building a community in the Boston area among Python people. We're of course interested to hear about relevant jobs, but don't want the list to become another source of distracting spam. To that end, there are four requirements for job postings to the mailing list:
