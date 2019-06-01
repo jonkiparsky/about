@@ -22,7 +22,7 @@ If your message doesn't go through, there are some things to check:
 - Be sure to send your message from the email address you used when signing up for Meetup.com.
 - Some people have reported that you have to visit your Meetup settings and elect to receive updates from the mailing list.
 
-Please don't use attachments, most readers won't open them anyway. Don't re-send announcements to the list too often: you will wear our readers' attention; six months is a good interval.
+Please don't use attachments, most readers won't open them anyway. Don't re-send announcements to the list too often: you will wear out readers' attention; six months is a good interval.
 
 If you have questions about the format of job postings, take a look at the [previous messages to the list][message-archive].
 
