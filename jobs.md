@@ -14,7 +14,7 @@ The Boston Python group is focused on building a community in the Boston area am
 
 It's also a good idea, but not required, to include an email address in the message, so that people can contact you directly.
 
-If your job posting meets these simple rules, feel free to send it to the mailing list at python-181@meetup.com. The message make take a few hours to go out, it has to be moderated.
+If your job posting meets these simple rules, feel free to send it to the mailing list at [python-181@meetup.com][email]. The message make take a few hours to go out, it has to be moderated.
 
 If your message doesn't go through, there are some things to check:
 
@@ -24,8 +24,13 @@ If your message doesn't go through, there are some things to check:
 
 Please don't use attachments, most readers won't open them anyway. Don't re-send announcements to the list too often: you will wear our readers' attention; six months is a good interval.
 
-If you have questions about the format of job postings, peruse the [previous messages to the list](https://www.meetup.com/bostonpython/messages/archive/).
+If you have questions about the format of job postings, take a look at the [previous messages to the list][message-archive].
 
-By the way, if you find this mailing list useful, it'd be great to make a [donation to the group](http://donate.bostonpython.com/).
+By the way, if you find this mailing list useful, it'd be great to make a [donation to the group][donate].
 
 Please don't post jobs as event comments, or create wiki pages, etc. Thanks.
+
+
+[email]: mailto:python-181@meetup.com
+[message-archive]: https://www.meetup.com/bostonpython/messages/archive/
+[donate]: http://donate.bostonpython.com/
