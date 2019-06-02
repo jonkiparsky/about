@@ -3,28 +3,17 @@ title: Code of Conduct
 sidebar_link: true
 ---
 
-Boston Python events are intended for networking and collaboration in the
-developer community.
+Boston Python events are intended for networking and collaboration in the developer community.
 
-We value the participation of each member of the Python community and want all
-attendees to have an enjoyable and fulfilling experience. Accordingly, all
-attendees are expected to show respect and courtesy to other attendees at all
-Boston Python events, whether officially sponsored by Boston Python or not.
+We value the participation of each member of the Python community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees at all Boston Python events, whether officially sponsored by Boston Python or not.
 
-To make clear what is expected, all staff, attendees, speakers, exhibitors,
-organizers, and volunteers at any Boston Python event are required to conform to
-the following Code of Conduct. Organizers will enforce this code throughout the
-event.
+To make clear what is expected, all staff, attendees, speakers, exhibitors, organizers, and volunteers at any Boston Python event are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
 ## Our Standards
 
-Boston Python is dedicated to providing a positive experience for everyone,
-regardless of age, gender identity and expression, sexual orientation,
-disability, physical appearance, body size, ethnicity, nationality, race, or
-religion (or lack thereof), education, or socio-economic status.
+Boston Python is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 
-Examples of behaviors that contribute to creating a positive environment
-include:
+Examples of behaviors that contribute to creating a positive environment include:
 
 - Being kind to others
 - Behaving professionally
@@ -46,57 +35,39 @@ Examples of unacceptable behavior by participants include:
 - Unwelcome sexual attention or advances
 - Unwelcome physical contact
 - Sustained disruption of talks or other events
-- Other conduct that is inappropriate for a professional audience including
-  people of many different backgrounds
+- Other conduct that is inappropriate for a professional audience including people of many different backgrounds
 
-Participants asked to stop any inappropriate behavior are expected to comply
-immediately.
+Participants asked to stop any inappropriate behavior are expected to comply immediately.
 
-If a participant engages in behavior that violates this code of conduct, the
-event organizers may take any action they deem appropriate, including warning
-the offender or expulsion from the event with no refund.
+If a participant engages in behavior that violates this code of conduct, the event organizers may take any action they deem appropriate, including warning the offender or expulsion from the event with no refund.
 
 Thank you for helping make Boston Python a welcoming, friendly group for all.
 
 ### Weapons Policy
 
-No weapons are allowed at event venues, including but not limited to explosives
-(including fireworks), guns, and large knives such as those used for hunting or
-display, as well as any other item used for the purpose of causing injury or
-harm to others. Anyone seen in possession of one of these items will be asked to
-leave immediately, and will only be allowed to return without the weapon.
+No weapons are allowed at event venues, including but not limited to explosives (including fireworks), guns, and large knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon.
 
-Attendees are further expected to comply with all state and local laws on this
-matter.
+Attendees are further expected to comply with all state and local laws on this matter.
 
 ## Scope
 
-All Boston Python attendees are subject to the Code of Conduct. This includes
-staff and volunteers, as well as attendees of events, presentations, project
-nights, after-event gatherings, receptions, and all sponsored or unofficial
-events.
+All Boston Python attendees are subject to the Code of Conduct. This includes staff and volunteers, as well as attendees of events, presentations, project nights, after-event gatherings, receptions, and all sponsored or unofficial events.
 
-Communication outside of events are also subject to the Code of Conduct,
-including email, online postings, chat messages, and any other communication
-under the auspices of Boston Python.
+Communication outside of events are also subject to the Code of Conduct, including email, online postings, chat messages, and any other communication under the auspices of Boston Python.
 
 ## Contact Information
 
-If you believe that someone is violating the code of conduct, or have any other
-concerns, please contact a member of the Boston Python staff immediately.
+If you believe that someone is violating the code of conduct, or have any other concerns, please contact a member of the Boston Python staff immediately.
 
 **Incident reporting**: send email to <conduct@bostonpython.com>
 
-In case of a conflict of interest, you can individually contact one of the
-organizers:
+In case of a conflict of interest, you can individually contact one of the organizers:
 
   * Ned Batchelder, <ned@bostonpython.com>
   * Brian Rutledge, <brian@bostonpyton.com>
   * Michelle Fullwood, <michelle@bostonpyton.com>
 
-Boston Python staff will be happy to help participants contact venue security or
-local law enforcement, provide escorts, or otherwise assist any attendee to feel
-safe for the duration of any event. We value your attendance.
+Boston Python staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of any event. We value your attendance.
 
 ## Procedure for Handling Incidents
 
@@ -105,11 +76,8 @@ safe for the duration of any event. We value your attendance.
 
 ## License
 
-This Code of Conduct was forked from the [PyCon US Code of
-Conduct](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md),
-which details the sources of its language.
+This Code of Conduct was forked from the [PyCon US Code of Conduct](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md), which details the sources of its language.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
 
-This Code of Conduct is licensed under a [Creative Commons Attribution 3.0
-Unported License](http://creativecommons.org/licenses/by/3.0/).
+This Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
