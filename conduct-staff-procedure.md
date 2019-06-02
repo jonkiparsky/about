@@ -2,12 +2,9 @@
 title: Staff Procedure For Incident Response
 ---
 
-Be sure to have a good understanding of our [Code of
-Conduct](code-of-conduct.md).
+Be sure to have a good understanding of our [Code of Conduct](code-of-conduct.md).
 
-Also have a good understanding of what is expected from an attendee that wants
-to report an incident: [Attendee Procedure For Reporting Code of Conduct
-Incidents](conduct-attendee-procedure.md).
+Also have a good understanding of what is expected from an attendee that wants to report an incident: [Attendee Procedure For Reporting Code of Conduct Incidents](conduct-attendee-procedure.md).
 
 ### When taking an incident report:
 
