@@ -1,3 +1,5 @@
 remote_theme: fongandrew/hydeout
 title: Boston Python
 description: The Boston-area Python user group
+
+theme: jekyll-theme-tactile
