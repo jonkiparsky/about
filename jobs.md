@@ -29,6 +29,8 @@ If you have questions about the format of job postings, take a look at the [prev
 
 By the way, if you find this mailing list useful, it'd be great to make a [donation to the group][donate].
 
+You can also announce jobs in the **#jobs** channel in our [Slack workspace](slack.md).
+
 Please don't post jobs as event comments, or create wiki pages, etc. Thanks.
 
 
