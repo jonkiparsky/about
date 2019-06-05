@@ -1,6 +1,7 @@
 ---
 title: Code of Conduct
 sidebar_link: true
+sidebar_sort_order: 1
 ---
 
 Boston Python events are intended for networking and collaboration in the developer community.

@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Boston Python
 ---
 
 Boston Python is a large vibrant user group of Python people in the Boston area.
