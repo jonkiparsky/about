@@ -1,7 +1,7 @@
 ---
 title: Contact Us
-sidebar_sort_order: 999
 sidebar_link: true
+sidebar_sort_order: 999
 ---
 
 To reach the organizers, you can send an email to <leaders@bostonpython.com>.  Current organizers are:

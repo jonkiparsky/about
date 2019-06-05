@@ -2,7 +2,7 @@
 title: Boston Python
 ---
 
-Boston Python is a large vibrant user group of Python people in the Boston area.
+Boston Python is a large and vibrant Python user group in the Boston area.
 
 You can [announce jobs](jobs.md).
 
