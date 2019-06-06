@@ -6,4 +6,12 @@ $root-font-family: Georgia;
 $sidebar-bg-color: lighten(#2b442f, 10%);
 $link-color: #289828;
 $sidebar-sticky: false;
+$section-spacing: 2rem;
+$sidebar-width: 16rem;
 @import "hydeout";
+
+.editme {
+    text-align: right;
+    color: #666;
+    font-size: 85%;
+}
