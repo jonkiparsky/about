@@ -2,13 +2,31 @@
 # Jekyll needs front matter for SCSS files
 ---
 
-$root-font-family: Georgia;
+// Variables for Hydeout
+
+$root-font-family: 'Source Serif Pro';
 $sidebar-bg-color: lighten(#2b442f, 10%);
 $link-color: #289828;
 $sidebar-sticky: false;
 $section-spacing: 2rem;
 $sidebar-width: 16rem;
+
 @import "hydeout";
+
+// Overrides of Hydeout styles
+
+#sidebar {
+    .site-title {
+        font-family: 'Roboto Slab', serif;
+        font-weight: bold;
+    }
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Slab', serif;
+}
+
+// Our own styles
 
 .editme {
     text-align: right;
