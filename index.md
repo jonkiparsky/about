@@ -8,4 +8,4 @@ You can [announce jobs](jobs.md).
 
 You can [sponsor events](sponsorship.md).
 
-We have a [Slack workspace](slack.md).
+We use [Slack](slack.md) for online discussions.
