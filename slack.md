@@ -10,13 +10,14 @@ Boston Python has a Slack workspace for online discussions.
 
 Once you're in, there are a number of channels, depending on what you are looking for:
 
-- **#general**: Questions/ideas/links of general interest to the community.
+- **#general**: Questions/ideas/links of general interest to the community. When in doubt, post here.
 - **#events**: Announcements/discussion of events that might be interesting to the group.
 - **#jobs**: For job postings that meet our [requirements](jobs.md), or folks looking for work.
 - **#organizing**: Discussion about how Boston Python works, and making it work better.
-+ **#beginners**: For folks learning Python, or people who want to help them learn Python.
-- **#random**: When in doubt, post here!
+- **#beginners**: For folks learning Python, or people who want to help them learn Python.
 - Specific areas of interest, such as **#web**, **#data**, **#science**, etc.
+
+If you need administrative or moderation help, send a direct message to **@bhrutledge** and/or **@nedbat**.
 
 To learn how to use Slack, refer to their [Help Center](https://get.slack.help/hc/en-us) guides, such as:
 
@@ -27,5 +28,3 @@ To learn how to use Slack, refer to their [Help Center](https://get.slack.help/h
 - [Save notes and files in your personal DM](https://get.slack.help/hc/en-us/articles/219899267)
 - [Format posts on your desktop](https://get.slack.help/hc/en-us/articles/209774578)
 - [Guide to Slack notifications](https://get.slack.help/hc/en-us/articles/201355156-Guide-to-Slack-notifications-)
-
-If you need administrative or moderation help, send a direct message to **@bhrutledge** and/or **@nedbat**.

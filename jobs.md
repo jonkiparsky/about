@@ -4,7 +4,7 @@ sidebar_link: true
 sidebar_sort_order: 500
 ---
 
-The Boston Python group is focused on building a community in the Boston area among Python people.  We are always interested to hear about jobs relevant to members of the community. Such postings can be sent to our mailing list or posted to the #jobs channel on our [Slack workspace][slack] or both.
+The Boston Python group is focused on building a community in the Boston area among Python people.  We are always interested to hear about jobs relevant to members of the community. Such postings can be sent to our mailing list, posted to our Slack workspace, or both.
 
 In order to ensure that job announcements are relevant and useful to the community and produce good responses, there are four requirements for any job posting:
 
