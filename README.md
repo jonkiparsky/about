@@ -1,5 +1,4 @@
-This is the source for the [About Boston Python](https://about.bostonpython.com)
-site.
+This is the source for the [About Boston Python](https://about.bostonpython.com) site.
 
 # Testing locally
 
