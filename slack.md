@@ -1,7 +1,7 @@
 ---
 title: Slack
 sidebar_link: true
-sidebar_sort_order: 600
+sidebar_sort_order: 200
 ---
 
 Boston Python has a Slack workspace for online discussions.

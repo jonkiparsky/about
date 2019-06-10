@@ -1,12 +1,15 @@
-This is the source for the [About Boston Python](https://about.bostonpython.com) site.
+# About Boston Python
 
-# Testing locally
+Content and configuration for <https://about.bostonpython.com>, built with [Jekyll](https://jekyllrb.com/) and hosted on [GitHub Pages](https://pages.github.com/).
 
-Sketchy instructions:
+## Building the site locally
+
+Prerequisites:
+
+- Ruby v2.6+ (via [rbenv](https://github.com/rbenv/rbenv), for example)
+- [Bundler](https://bundler.io/)
+
 ```
-rbenv install 2.6.2
-rbenv global 2.6.2
-gem install --user-install bundler jekyll
-export PATH=$HOME/.gem/ruby/2.6.0/bin:$PATH
+bundle install
 bundle exec jekyll serve
 ```
