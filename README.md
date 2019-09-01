@@ -12,3 +12,7 @@ Content and configuration for <https://about.bostonpython.com>, built with [Jeky
 -   Install the site: `cd BostonPython-about; bundle install`
 -   Serve the site: `bundle exec jekyll serve`
 -   View the site in a browser at [localhost:4000](http://localhost:4000).
+
+## Developing the site
+
+This site uses the [Hydeout](https://fongandrew.github.io/hydeout/) theme. Most of the site's structure and style come from the theme, so please have a look at the theme source code if you're interested in making any relevant changes.
