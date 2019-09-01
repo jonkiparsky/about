@@ -1,4 +1,4 @@
 remote_theme: fongandrew/hydeout
 title: Boston Python
 description: The Boston-area Python user group
-permalink: /:categories/:title
+permalink: /:name
