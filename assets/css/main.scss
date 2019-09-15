@@ -33,3 +33,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #666;
     font-size: 85%;
 }
+
+nav#sidebar-nav-links .active {
+    text-decoration: underline;
+}
