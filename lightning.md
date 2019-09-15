@@ -4,11 +4,11 @@ title: Lightning Talks
 
 Lightning talks are 5-10 minutes long, on any topic of interest to other Python people.  It doesn't have to be about something that you wrote, it can be something that you learned, or a technique you think other people will be interested in.
 
-* You know that thing at work that everyone comes to you for help with? Talk about that!
+* You know that thing at work that everyone comes to you for help with? **Talk about that!**
 
-* You know that thing you just learned that helped you out? Talk about that!
+* You know that thing you just learned that helped you out? **Talk about that!**
 
-* You know that thing you always wish you understood, but haven't figured out yet? Learn it, then talk about that!
+* You know that thing you always wish you understood, but haven't figured out yet? Learn it, then **talk about that!**
 
 Things people say when they think they can't do a lightning talk:
 
@@ -36,3 +36,5 @@ Things people say when they think they can't do a lightning talk:
     - It's a better idea than you think.
     - Send me the idea, we'll tweak it up.
     - Are there really any bad ideas for lightning talks? :)
+
+**Seriously**: anyone can do a lightning talk.
