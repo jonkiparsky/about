@@ -1,7 +1,7 @@
 ---
 title: Sponsoring
 sidebar_link: true
-sidebar_sort_order: 500
+sidebar_sort_order: 520
 ---
 
 Boston Python is always looking for sponsors for its events. We'd love to have you! Sponsoring brings a personal touch to your recruiting efforts. One recent sponsor commented:
