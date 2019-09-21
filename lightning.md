@@ -38,3 +38,7 @@ Things people say when they think they can't do a lightning talk:
     - Are there really any bad ideas for lightning talks? :)
 
 **Seriously**: anyone can do a lightning talk.
+
+If you need more encouragement, watch this lightning talk about brewing tea (hint: it's not really about brewing tea):
+
+[![Brewing you're tea](http://img.youtube.com/vi/XJm69BZU7ho/0.jpg)](http://www.youtube.com/watch?v=XJm69BZU7ho "Brewing you're tea")
