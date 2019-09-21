@@ -8,7 +8,7 @@ To reach the organizers, you can send an email to <leaders@bostonpython.com>.  C
 
 - Ned Batchelder <ned@bostonpython.com>
 - Brian Rutledge <brian@bostonpython.com>
-- Mike Milken <mike@bostonpython.com>
+- Mike Milkin <mike@bostonpython.com>
 - Michelle Fullwood <michelle@bostonpython.com>
 - Mick Timony <mick@bostonpython.com>
 
