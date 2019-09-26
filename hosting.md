@@ -18,7 +18,7 @@ Here are some things to consider:
 - After-hours staff: will there be (for example) cleaning crews that won't expect us there?  Let them know.  Maybe they need to adjust their schedule?
 - Bathrooms: Can people get to the bathrooms?  Will they get lost or locked out if they do?
 - Security: Can members get into the building easily?  Does the front desk want a list of attendees? Can they deal with ad-hoc people showing up that aren't on the list? Can they quickly admit 100 visitors?
-- Legal: do you have legal requirements for visitors, for example, an NDA? Please consider whether this is the right tone you want to set for guest at an event open to the public.
+- Legal: do you have legal requirements for visitors, for example, an NDA? Please consider whether this is the right tone you want to set for guests at an event open to the public.
 - Directions: How do we tell members how to get there?  Are there good instructions available?
 - Parking: Is there parking nearby?  What does it cost? Are there options?
 - Public Transportation: Can people get there without a car?
