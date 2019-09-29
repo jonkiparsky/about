@@ -4,7 +4,7 @@
 
 // Variables for Hydeout
 
-$root-font-family: 'Merriweather';
+$root-font-family: Merriweather;
 $sidebar-bg-color: lighten(#2b442f, 10%);
 $link-color: #289828;
 $sidebar-sticky: false;
@@ -17,13 +17,13 @@ $sidebar-width: 16rem;
 
 #sidebar {
     .site-title {
-        font-family: 'Roboto Slab', serif;
+        font-family: Merriweather, Georgia, serif;
         font-weight: bold;
     }
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto Slab', serif;
+    font-family: Roboto, Helvetica, sans-serif;
 }
 
 // Our own styles
