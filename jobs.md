@@ -1,5 +1,5 @@
 ---
-title: Posting jobs
+title: Posting Jobs
 sidebar_link: true
 sidebar_sort_order: 500
 ---
