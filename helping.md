@@ -4,7 +4,7 @@ sidebar_link: true
 sidebar_sort_order: 300
 ---
 
-Keeping Boston Python running requires lots of small jobs. If you take on one of these, it’s a big help to the organization. You can sign up for one of these and then move to doing something else later on. Or you can suggest a different job that you're interested in doing.
+Keeping Boston Python running requires lots of small jobs. If you take on one of these, it's a big help to the organization. You can sign up for one of these and then move to doing something else later on. Or you can suggest a different job that you're interested in doing.
 
 We really appreciate your help!
 
@@ -102,7 +102,7 @@ Find pizza sponsors for events. Contact potential sponsors about how sponsorship
 
 ### Presentation night curator - Ned
 
-Choose a topic for just one presentation night. Find speakers who fit that topic. Nag them just enough to be sure they are ready for the night. This doesn’t have to be a repeating task, doing it for one night is a big help!
+Choose a topic for just one presentation night. Find speakers who fit that topic. Nag them just enough to be sure they are ready for the night. This doesn't have to be a repeating task, doing it for one night is a big help!
 
 ### Bar reserver - Ned
 
@@ -110,7 +110,7 @@ Email their events person to reserve space for us after presentation nights. Che
 
 ### Pizza quartermaster - Ned
 
-On the day of an event, note how many people have RSVP’d yes, use the Beauty’s Pizza web site to order enough pizza in an interesting mix, pay with the Boston Python debit card.
+On the day of an event, note how many people have RSVP'd yes, use the Beauty's Pizza web site to order enough pizza in an interesting mix, pay with the Boston Python debit card.
 
 ### Puzzle crafter
 
@@ -118,7 +118,7 @@ Project nights often have a set of puzzles for people to work on. Write or find 
 
 ### Give-away rustler
 
-We sometimes have prizes to raffle away. Someone needs to arrange for those donations. Books are easy, you send an email to O’Reilly and they ship a box of books. But with more effort, we could probably get more stuff.
+We sometimes have prizes to raffle away. Someone needs to arrange for those donations. Books are easy, you send an email to O'Reilly and they ship a box of books. But with more effort, we could probably get more stuff.
 
 ## At events
 
@@ -136,11 +136,11 @@ Set up name tags and markers, and encourage attendees to fill one out. Maybe add
 
 ### Attendee greeter
 
-People showing up to an evening event could probably use a friendly face to greet them. Stand near the entrance and be friendly! Tell people how to get started. Make them feel welcome. This can be totally informal; if you warmly greet just one apprehensive attendee, you’ve made a difference!
+People showing up to an evening event could probably use a friendly face to greet them. Stand near the entrance and be friendly! Tell people how to get started. Make them feel welcome. This can be totally informal; if you warmly greet just one apprehensive attendee, you've made a difference!
 
 ### Beginner table captain
 
-Be at project nights, and make sure people at the beginner tables are getting their questions answered. You don’t have to be an expert; you have to be friendly, understanding, and helpful.
+Be at project nights, and make sure people at the beginner tables are getting their questions answered. You don't have to be an expert; you have to be friendly, understanding, and helpful.
 
 ### Presentation night emcee - Ned
 

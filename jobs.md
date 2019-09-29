@@ -21,10 +21,10 @@ If your job posting meets these simple rules, feel free to send it to the mailin
 Some suggestions/requests:
 
 - Don't re-post announcements too often: you will wear out peoples' attention. Six months is a good interval for repeated posts.
-- When sending to the mailing list, don’t use attachments. Most people won’t open them anyway.
+- When sending to the mailing list, don't use attachments. Most people won't open them anyway.
 - Include an email address for people to respond.
 - If you have questions about the format of job postings, take a look at the [previous messages to the list][message-archive].
-- Don’t post jobs elseware on Boston Python, for example as event comments.
+- Don't post jobs elseware on Boston Python, for example as event comments.
 
 If your email message doesn't go through, here are some things to check:
 

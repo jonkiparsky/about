@@ -32,14 +32,14 @@ Try to get as much of the incident in written form by the reporter. If you canno
 * Description of the incident
 * Identifying information of the reported person: name, physical appearance, height, clothing, voice accent
 * Additional circumstances surrounding the incident
-* Reporter’s name and contact information. If the reporter wants to make an anonymous report, allow them to do so. If responding to the incident would reveal who reported the incident (e.g. a micro-aggression in one-on-one conversation) ask the reporter if they have safety concerns about this.
+* Reporter's name and contact information. If the reporter wants to make an anonymous report, allow them to do so. If responding to the incident would reveal who reported the incident (e.g. a micro-aggression in one-on-one conversation) ask the reporter if they have safety concerns about this.
 * Other people involved in or witnesses to the incident and their contact information or description
 * Do not prompt the reporter for suggestions of how to handle the incident, but record their suggested responses if they offer them
 
 Assess whether an immediate response is necessary. This initial response is very important and will set the tone for Boston Python. Depending on the severity/details of the incident, please follow these guidelines:
 
 * If there is any general threat to attendees or the safety of anyone including event staff, consult the volunteer guide for emergency and crisis resources.
-* If everyone is presently physically safe, involve law enforcement or security only at a reporter’s request.
+* If everyone is presently physically safe, involve law enforcement or security only at a reporter's request.
 * After taking the report, assess whether you need a lead incident responder to immediately respond to the incident. If so, ask the reporter to stay with you and get in touch with the lead incident responders.
 
 Respond to reporter needs. You can:
@@ -75,7 +75,7 @@ People who are reported often get upset, defensive, or deny the report. Allow th
 
 * It does not matter if they did not intend to hurt anyone -- their behavior still impacted attendees negatively
 * It is not your job to reassure or forgive them
-* Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers on the reported person’s feelings and not the person who was impacted. You may accept their apology and offer to pass it on (but you’re not required to if you think it would negatively impact the reporter).
+* Do not allow the reported person to make an apology to the reporter or impacted person. Often an apology centers on the reported person's feelings and not the person who was impacted. You may accept their apology and offer to pass it on (but you're not required to if you think it would negatively impact the reporter).
 
 What follows are examples of possible responses to an incident report. This list is is not inclusive, and Boston Python reserves the right to take any action it deems necessary. Possible responses to an incident include:
 
@@ -104,4 +104,4 @@ If some attendees were angered by the incident, it is best to apologize to them 
 
 ---
 
-This procedure has been adapted from the Ada Initiative’s guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)" and has been updated by [Otter Tech](https://otter.technology/code-of-conduct-training).
+This procedure has been adapted from the Ada Initiative's guide titled "[Conference anti-harassment/Responding to Reports](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Responding_to_reports)" and has been updated by [Otter Tech](https://otter.technology/code-of-conduct-training).
