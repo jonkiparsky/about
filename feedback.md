@@ -12,6 +12,6 @@ Please let us know how the event was for you. Did you feel welcome? Did you find
 
 We really want to hear from you. Be **blunt** if you need to! Honest feedback will help us improve Boston Python for everyone.
 
-Send us an email: <leaders@bostonpython.com>, or to any one of us on the [Contact Us](contact.md) page.
+Send us an email: [leaders@bostonpython.com](mailto:leaders@bostonpython.com?subject=Feedback), or to any one of us on the [Contact Us](contact.md) page.
 
 Thanks, we really appreciate it!
