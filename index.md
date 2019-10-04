@@ -8,4 +8,4 @@ We use [Slack](slack.md) for online discussions.
 
 All of our interactions are covered by our [code of conduct](code-of-conduct.md).
 
-If you are an employer, you can [announce jobs](jobs.md) and even [sponsor events](sponsorship.md).
+If you are an employer, you can [announce jobs](jobs.md) and even [sponsor](sponsorship.md) or [host](hosting.md) events.
