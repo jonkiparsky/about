@@ -6,6 +6,8 @@ sidebar_sort_order: 300
 
 Keeping Boston Python running requires lots of small jobs. If you take on one of these, it's a big help to the organization. You can sign up for one of these and then move to doing something else later on. Or you can suggest a different job that you're interested in doing.
 
+If you want to talk about any of this, find us in [Slack](slack.md) in the [#organizing channel](https://app.slack.com/client/T8Y3V5G9E/CJP5P5TNX).
+
 We really appreciate your help!
 
 ## Considerations
