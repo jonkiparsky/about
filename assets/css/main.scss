@@ -23,6 +23,16 @@ $large-font-size: 1.15rem !default;
     }
 }
 
+img {
+    display: inline;
+    margin-bottom: -.25em;
+    &.left-icon {
+        width: 24px;
+        height: 24px;
+        margin-right: .6em;
+    }
+}
+
 // Our own styles
 
 h2 {
