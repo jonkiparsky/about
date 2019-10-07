@@ -16,6 +16,6 @@ Other ways to connect with Boston Python people:
 
 [![LinkedIn](assets/images/LI-In-Bug.png){: .left-icon}LinkedIn group](https://www.linkedin.com/groups/12301683/)
 
-[![Slack](assets/images/Slack_Mark_Web.png){: .left-icon}Slack](slack.md)
+[![Slack](assets/images/Slack_Mark_Web.png){: .left-icon}Slack](slack)
 
-[![Email](assets/images/email.png){: .left-icon}Email the leaders](contact.md)
+[![Email](assets/images/email.png){: .left-icon}Email the leaders](contact)
