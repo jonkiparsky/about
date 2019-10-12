@@ -7,7 +7,7 @@ It's often said that the best way to learn to write programs is to write program
 
 ## Python-specific exercises
 
-- [exercism.io](exercism.io) is a multi-language learning platform with over 100 Python-specific exercises
+- [exercism.io](https://exercism.io) is a multi-language learning platform with over 100 Python-specific exercises
 - [checkio.org](https://checkio.org/) offers Python-specific exercises. Problems are solved in an integrated editor on the site.
 - [codingbat](https://codingbat.com/python)
 - [edabit](https://edabit.com/challenges/python3)
