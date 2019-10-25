@@ -6,6 +6,8 @@ sidebar_sort_order: 500
 
 The Boston Python group is focused on building a community in the Boston area among Python people.  We welcome job postings of interest to members of the community. Such postings can be sent to our mailing list, posted to our Slack workspace, or both.
 
+You can see previous job postings in the [Meetup mailing list archive](https://www.meetup.com/bostonpython/messages/archive/).
+
 In order to ensure that job announcements are relevant and useful to the community and produce good responses, there are four requirements for any job posting:
 
 - The job must significantly involve Python. For example, more than half of the work is in Python.
