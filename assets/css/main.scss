@@ -33,6 +33,10 @@ img {
     }
 }
 
+footer {
+    background-color: white;
+}
+
 // Our own styles
 
 h2 {
@@ -41,9 +45,18 @@ h2 {
 }
 
 .editme {
-    text-align: right;
     color: #666;
     font-size: 85%;
+    padding: 1rem;
+
+    &:target {
+        animation: fade-bg 3s;
+        @keyframes fade-bg
+        {
+            0%   { background: rgba($sidebar-bg-color, 0.2); }
+            100% { background: transparent; }
+        }
+    }
 }
 
 .copyright {
