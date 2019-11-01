@@ -46,8 +46,9 @@ h2 {
 
 .editme {
     color: #666;
-    font-size: 85%;
+    font-size: 75%;
     padding: 1rem;
+    margin-left: -1rem;
 
     &:target {
         animation: fade-bg 3s;
