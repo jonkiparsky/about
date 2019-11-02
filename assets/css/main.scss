@@ -4,7 +4,7 @@
 
 // Variables for Hydeout
 
-$root-font-family: Merriweather;
+$root-font-family: Merriweather, Georgia, serif;
 $sidebar-bg-color: lighten(#2b442f, 10%);
 $link-color: #289828;
 $sidebar-sticky: false;
@@ -18,7 +18,7 @@ $large-font-size: 1.15rem !default;
 
 #sidebar {
     .site-title {
-        font-family: Merriweather, Georgia, serif;
+        font-family: $root-font-family;
         font-weight: bold;
     }
 }
@@ -33,10 +33,6 @@ img {
     }
 }
 
-footer {
-    background-color: white;
-}
-
 // Our own styles
 
 h2 {
@@ -44,11 +40,15 @@ h2 {
     border-bottom: 1px solid #ddd;
 }
 
+footer.content {
+    font-size: 85%;
+    padding-top: 0;
+    padding-bottom: 2rem !important;
+}
+
 .editme {
-    color: #666;
-    font-size: 75%;
     padding: 1rem;
-    margin-left: -1rem;
+    margin: -1rem;
 
     &:target {
         animation: fade-bg 3s;
