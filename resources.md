@@ -20,6 +20,8 @@ It's often said that the best way to learn to write programs is to write program
 
 - [Python Koans](https://github.com/gregmalcolm/python_koans): A set of exercises for python and test-driven development for beginners.
 
+- [PyBites Blog Code Challenges](https://codechalleng.es/challenges/): <q>Free form, open ended, mini coding projects designed to take anywhere from a day to a week</q>. Each challenge includes optional instructions for submitting your solution using GitHub.
+
 - [A curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning#python)
 
 ## Language-agnostic coding challenges
@@ -34,4 +36,4 @@ It's often said that the best way to learn to write programs is to write program
 
 - [Python Morsels](https://www.pythonmorsels.com/): A short Python exercise every week, followed a fews days later by a number of idiomatic solutions, with explanations of each one.
 
-- [PyBites](https://codechalleng.es/bites/): <q>Hone your Python skills by coding and verifying exercises in the comfort of your browser.</q>  Pricing structure is by-the-month ($20/mo) or by-#-of-excercises (min $40 for 25 "bites").
+- [PyBites](https://codechalleng.es/): <q>Hone your Python skills by coding and verifying exercises in the comfort of your browser.</q> Offers a small number of free exercises, but most require buying a bundle or monthly subscription. Exercises are grouped by skill level (Bites of Py) and topic (Learning Paths).
