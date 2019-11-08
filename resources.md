@@ -20,6 +20,8 @@ It's often said that the best way to learn to write programs is to write program
 
 - [CheckIO](https://checkio.org/): Coding games to improve your skills by solving engaging challenges and fun tasks using Python.
 
+- [Python Koans](https://github.com/gregmalcolm/python_koans): A set of exercises for python and test-driven development for beginners.
+
 - [A curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning#python)
 
 ## Language-agnostic coding challenges
