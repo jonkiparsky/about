@@ -10,8 +10,6 @@ It's often said that the best way to learn to write programs is to write program
 
 ## Python-specific exercises
 
-- [PyBites](https://codechalleng.es/bites/): <q>Hone your Python skills by coding and verifying exercises in the comfort of your browser.</q>
-
 - [exercism](https://exercism.io/): <q>Code practice and mentorship for everyone</q>, with over 100 [Python-specific exercises](https://exercism.io/tracks/python).
 
 - [edabit](https://edabit.com/): <q>Learn to code with interactive challenges</q>, with [Python exercises](https://edabit.com/challenges/python3) for all levels.
@@ -35,3 +33,5 @@ It's often said that the best way to learn to write programs is to write program
 ## Resources that cost money
 
 - [Python Morsels](https://www.pythonmorsels.com/): A short Python exercise every week, followed a fews days later by a number of idiomatic solutions, with explanations of each one.
+
+- [PyBites](https://codechalleng.es/bites/): <q>Hone your Python skills by coding and verifying exercises in the comfort of your browser.</q>  Pricing structure is by-the-month ($20/mo) or by-#-of-excercises (min $40 for 25 "bites").
