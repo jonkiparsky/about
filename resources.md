@@ -10,8 +10,6 @@ It's often said that the best way to learn to write programs is to write program
 
 ## Python-specific exercises
 
-- [PyBites](https://codechalleng.es/bites/): <q>Hone your Python skills by coding and verifying exercises in the comfort of your browser.</q>
-
 - [exercism](https://exercism.io/): <q>Code practice and mentorship for everyone</q>, with over 100 [Python-specific exercises](https://exercism.io/tracks/python). Exercism is free and open-source, which is nice. It requires installation of their submission software, which is a slightly cumbersome process, but once installed the submission system is smoother than many online exercise portals. Problems are not always well-specified, and it may at times be difficult to understand exactly what is required.
 
 - [edabit](https://edabit.com/): <q>Learn to code with interactive challenges</q>, with [Python exercises](https://edabit.com/challenges/python3) for all levels.
@@ -19,6 +17,8 @@ It's often said that the best way to learn to write programs is to write program
 - [Practice Python](https://www.practicepython.org/): 30+ Python excercises for beginners.
 
 - [CheckIO](https://checkio.org/): Coding games to improve your skills by solving engaging challenges and fun tasks using Python.
+
+- [Python Koans](https://github.com/gregmalcolm/python_koans): A set of exercises for python and test-driven development for beginners.
 
 - [A curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning#python)
 
@@ -33,3 +33,5 @@ It's often said that the best way to learn to write programs is to write program
 ## Resources that cost money
 
 - [Python Morsels](https://www.pythonmorsels.com/): A short Python exercise every week, followed a fews days later by a number of idiomatic solutions, with explanations of each one.
+
+- [PyBites](https://codechalleng.es/bites/): <q>Hone your Python skills by coding and verifying exercises in the comfort of your browser.</q>  Pricing structure is by-the-month ($20/mo) or by-#-of-excercises (min $40 for 25 "bites").
