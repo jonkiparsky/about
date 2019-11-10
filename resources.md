@@ -10,7 +10,7 @@ It's often said that the best way to learn to write programs is to write program
 
 ## Python-specific exercises
 
-- [exercism](https://exercism.io/): <q>Code practice and mentorship for everyone</q>, with over 100 [Python-specific exercises](https://exercism.io/tracks/python). Exercism is free and open-source, which is nice. It requires installation of their submission software, which is a slightly cumbersome process, but once installed the submission system is smoother than many online exercise portals. Problems are not always well-specified, and it may at times be difficult to understand exactly what is required.
+- [exercism](https://exercism.io/): Crowd-sourced <q>code practice and mentorship for everyone</q>, with over 100 [Python-specific exercises](https://exercism.io/tracks/python). Installing their command-line interface can be <q>a little complicated</q> , but after that the submission system is smoother than many online exercise portals.
 
 - [edabit](https://edabit.com/): <q>Learn to code with interactive challenges</q>, with [Python exercises](https://edabit.com/challenges/python3) for all levels.
 
