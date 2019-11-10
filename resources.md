@@ -10,7 +10,7 @@ It's often said that the best way to learn to write programs is to write program
 
 ## Python-specific exercises
 
-- [exercism](https://exercism.io/): Crowd-sourced <q>code practice and mentorship for everyone</q>, with over 100 [Python-specific exercises](https://exercism.io/tracks/python). Installing their command-line interface can be <q>a little complicated</q> , but after that the submission system is smoother than many online exercise portals.
+- [exercism](https://exercism.io/): Crowd-sourced <q>code practice and mentorship for everyone</q>, with over 100 [Python-specific exercises](https://exercism.io/tracks/python). Installing their command-line interface can be a little complicated, but after that the submission system is smoother than many online exercise portals. Beginners should be aware that some problem descriptions may be incomplete or confusing. Feel free to ask for help on the slack if a problem seems unclear!
 
 - [edabit](https://edabit.com/): <q>Learn to code with interactive challenges</q>, with [Python exercises](https://edabit.com/challenges/python3) for all levels.
 
