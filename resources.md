@@ -8,9 +8,15 @@ It's often said that the best way to learn to write programs is to write program
 
 **NOTE**: This is a work-in-progress. The resources listed have only been lightly curated, and there are likely other great ones that should be on this list. We welcome [suggestions](#edit-page).
 
+## Places to ask for help when you're stuck
+
+- The Boston Python [Slack workspace](https://about.bostonpython.com/slack)
+- [Dream In Code](https://www.dreamincode.net/) is a beginner-friendly discussion-oriented programming forum. 
+- [Stack Overflow](https://stackoverflow.com/) is a good place to find quick answers to specific technical questions, but is usually not a good place for involved discussion about logic or problem-solving. 
+
 ## Python-specific exercises
 
-- [exercism](https://exercism.io/): <q>Code practice and mentorship for everyone</q>, with over 100 [Python-specific exercises](https://exercism.io/tracks/python).
+- [exercism](https://exercism.io/): Crowd-sourced <q>code practice and mentorship for everyone</q>, with over 100 [Python-specific exercises](https://exercism.io/tracks/python). Installing their command-line interface can be a little complicated, but after that the submission system is smoother than many online exercise portals. Exercises are submitted and maintained by volunteers, as a result some exercise descriptions may be incomplete or confusing.
 
 - [edabit](https://edabit.com/): <q>Learn to code with interactive challenges</q>, with [Python exercises](https://edabit.com/challenges/python3) for all levels.
 
