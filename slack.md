@@ -12,7 +12,8 @@ Once you're in, there are a number of channels, depending on what you are lookin
 
 - **#general**: Questions/ideas/links of general interest to the community. When in doubt, post here.
 - **#events**: Announcements/discussion of events that might be interesting to the group.
-- **#jobs**: For job postings that meet our [requirements](jobs.md), or folks looking for work.
+- **#jobs**: For job postings. They must meet our [requirements](jobs.md).
+- **#for-hire**: Where you can announce your availability for work.
 - **#organizing**: Discussion about how Boston Python works, and making it work better.
 - **#beginners**: For folks learning Python, or people who want to help them learn Python.
 - Specific areas of interest, such as **#web**, **#data**, **#science**, etc.
