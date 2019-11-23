@@ -65,8 +65,8 @@ If you believe that someone is violating the code of conduct, or have any other 
 In case of a conflict of interest, you can individually contact one of the organizers:
 
   * Ned Batchelder, <ned@bostonpython.com>
-  * Brian Rutledge, <brian@bostonpyton.com>
-  * Michelle Fullwood, <michelle@bostonpyton.com>
+  * Brian Rutledge, <brian@bostonpython.com>
+  * Michelle Fullwood, <michelle@bostonpython.com>
 
 Boston Python staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of any event. We value your attendance.
 
