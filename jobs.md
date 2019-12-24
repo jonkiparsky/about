@@ -37,6 +37,7 @@ If your email message doesn't go through, here are some things to check:
 
 By the way: if your job posting succeeds, please consider making a [donation to the group][donate].
 
+We don't have a general time during face-to-face events for job announcements. There would be too many to be effective.  [Sponsors](sponsorship.md) get time when they can talk about their job openings if they wish.
 
 [email]: mailto:python-181@meetup.com
 [slack]: slack.md
