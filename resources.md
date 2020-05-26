@@ -11,8 +11,8 @@ It's often said that the best way to learn to write programs is to write program
 ## Places to ask for help when you're stuck
 
 - The Boston Python [Slack workspace](https://about.bostonpython.com/slack)
-- [Dream In Code](https://www.dreamincode.net/) is a beginner-friendly discussion-oriented programming forum. 
-- [Stack Overflow](https://stackoverflow.com/) is a good place to find quick answers to specific technical questions, but is usually not a good place for involved discussion about logic or problem-solving. 
+- [Dream In Code](https://www.dreamincode.net/) is a beginner-friendly discussion-oriented programming forum.
+- [Stack Overflow](https://stackoverflow.com/) is a good place to find quick answers to specific technical questions, but is usually not a good place for involved discussion about logic or problem-solving.
 
 ## Python-specific exercises
 
@@ -29,6 +29,12 @@ It's often said that the best way to learn to write programs is to write program
 - [PyBites Blog Code Challenges](https://codechalleng.es/challenges/): <q>Free form, open ended, mini coding projects designed to take anywhere from a day to a week</q>. Each challenge includes optional instructions for submitting your solution using GitHub.
 
 - [A curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning#python)
+
+
+## More resources
+
+- [Software Engineering: Python for Beginners](https://www.mapcon.com/us-en/software-engineering-python) has a list of other Python resources that could be helpful for beginners.
+
 
 ## Language-agnostic coding challenges
 
