@@ -6,7 +6,30 @@ sidebar_sort_order: 200
 
 Boston Python has a Slack workspace for online discussions.
 
-[Sign up to join us!](https://slack.bostonpython.com) As always, we expect all members to abide by our [code of conduct](code-of-conduct.md).
+Use this form to get an invitation.  As always, we expect all members to abide by our [code of conduct](code-of-conduct.md).
+
+<div id="community_inviter_container">
+<!-- Embeddable form from https://communityinviter.com/ -->
+
+<div id="CommunityInviter"></div>
+<script>
+  window.CommunityInviterAsyncInit = function () {
+    CommunityInviter.init({
+      app_url:'thebadge',
+      team_id:'bostonpython'
+   })
+  };
+
+  (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "https://communityinviter.com/js/communityinviter.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'Community_Inviter'));
+</script>
+
+</div>
 
 Once you're in, there are a number of channels, depending on what you are looking for:
 

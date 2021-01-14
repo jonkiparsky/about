@@ -75,3 +75,14 @@ footer.content {
 nav#sidebar-nav-links .active {
     text-decoration: underline;
 }
+
+#community_inviter_container {
+    margin: 2em 0;
+
+    input {
+        font-size: 100%;
+    }
+    img {
+        display: none;
+    }
+}
