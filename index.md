@@ -18,4 +18,6 @@ Other ways to connect with Boston Python people:
 
 [![Slack](assets/images/Slack_Mark_Web.png){: .left-icon}Slack](slack)
 
+[![YouTube](assets/images/youtube_social_icon_white.png){: .left-icon}YouTube](https://www.youtube.com/user/bostonpython/videos)
+
 [![Email](assets/images/email.png){: .left-icon}Email the leaders](contact)
