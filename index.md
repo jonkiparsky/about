@@ -2,7 +2,7 @@
 title: Home
 ---
 
-Boston Python is a large and vibrant Python user group in the Boston area.  We run [two events](events.md) most months. Anyone interested in any aspect of the Python world is welcome!
+Boston Python is a large and vibrant Python user group in the Boston area.  We run [three events](events.md) most months. Anyone interested in any aspect of the Python world is welcome!
 
 We use [Slack](slack.md) for online discussions.
 
