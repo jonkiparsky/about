@@ -4,7 +4,11 @@ sidebar_link: true
 sidebar_sort_order: 200
 ---
 
-Boston Python has a Slack workspace for online discussions. You can use [this link](https://join.slack.com/t/bostonpython/shared_invite/zt-tnds065z-Ec_9XymfQFiPIVGXynyCjg) to join.
+Boston Python has a Slack workspace for online discussions. You can use [this link to join][join].
+
+<span style="font-size:200%;">☞ [Join Us on Slack][join] ☜</span>
+
+[join]: https://join.slack.com/t/bostonpython/shared_invite/zt-tnds065z-Ec_9XymfQFiPIVGXynyCjg
 
 Once you've joined, there are a number of channels, depending on what you are looking for:
 
