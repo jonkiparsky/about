@@ -4,34 +4,9 @@ sidebar_link: true
 sidebar_sort_order: 200
 ---
 
-Boston Python has a Slack workspace for online discussions.
+Boston Python has a Slack workspace for online discussions. You can use [this link](https://join.slack.com/t/bostonpython/shared_invite/zt-tnds065z-Ec_9XymfQFiPIVGXynyCjg) to join.
 
-Use this form to get an invitation.  As always, we expect all members to abide by our [code of conduct](code-of-conduct.md).
-
-<div id="community_inviter_container">
-<!-- Embeddable form from https://communityinviter.com/ -->
-
-<div id="CommunityInviter"></div>
-<script>
-  window.CommunityInviterAsyncInit = function () {
-    CommunityInviter.init({
-      app_url:'thebadge',
-      team_id:'bostonpython'
-   })
-  };
-
-  (function(d, s, id){
-    var js, fjs = d.getElementsByTagName(s)[0];
-    if (d.getElementById(id)) {return;}
-    js = d.createElement(s); js.id = id;
-    js.src = "https://communityinviter.com/js/communityinviter.js";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script', 'Community_Inviter'));
-</script>
-
-</div>
-
-Once you're in, there are a number of channels, depending on what you are looking for:
+Once you've joined, there are a number of channels, depending on what you are looking for:
 
 - **#general**: Questions/ideas/links of general interest to the community. When in doubt, post here.
 - **#events**: Announcements/discussion of events that might be interesting to the group.
