@@ -14,7 +14,7 @@ It's often said that the best way to learn to write programs is to write program
 - [Dream In Code](https://www.dreamincode.net/) is a beginner-friendly discussion-oriented programming forum.
 - [Stack Overflow](https://stackoverflow.com/) is a good place to find quick answers to specific technical questions, but is usually not a good place for involved discussion about logic or problem-solving.
 
-## Python-specific exercises
+## Python-specific programming exercises
 
 - [exercism](https://exercism.io/): Crowd-sourced <q>code practice and mentorship for everyone</q>, with over 100 [Python-specific exercises](https://exercism.io/tracks/python). Installing their command-line interface can be a little complicated, but after that the submission system is smoother than many online exercise portals. Exercises are submitted and maintained by volunteers, as a result some exercise descriptions may be incomplete or confusing.
 
@@ -29,11 +29,6 @@ It's often said that the best way to learn to write programs is to write program
 - [PyBites Blog Code Challenges](https://codechalleng.es/challenges/): <q>Free form, open ended, mini coding projects designed to take anywhere from a day to a week</q>. Each challenge includes optional instructions for submitting your solution using GitHub.
 
 - [A curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning#python)
-
-
-## More resources
-
-- [Software Engineering: Python for Beginners](https://www.mapcon.com/us-en/software-engineering-python) has a list of other Python resources that could be helpful for beginners.
 
 
 ## Language-agnostic coding challenges
@@ -69,3 +64,14 @@ There are thousands of books on programming in Python. This list focuses on titl
 - [Think Stats!](https://greenteapress.com/wp/think-stats-2e/) and [Think Bayes!](http://greenteapress.com/wp/think-bayes/) by Allen Downey. These books are aimed at teaching probability & statistics and Bayesian statistics, using Python rather than traditional mathematical expressions to make the concepts concrete. Recommended for more advanced beginners with an interest in the mathematical underpinnings of statistics. The website for both books has free PDF and HTML versions.
 
 - [Python Tricks: The Book](https://realpython.com/products/python-tricks-book/) by Dan Bader. This is a great book for those who are comfortable with the basics of Python and would like to learn some more advanced tricks, such as decorators, abstract base classes, named tuples, and more. The author runs the [Real Python site](https://realpython.com/) which has a lot of in-depth Python tutorials. A short [PDF sample](https://static.realpython.com/python-tricks-book/Python%20Tricks%20Sample.pdf) is available. Libraries: [MLN](https://find.minlib.net/iii/encore/record/C__Rb3739402), [BPL](https://bpl.bibliocommons.com/item/show/12035076981)
+
+## Python Newsletters/Mailing Lists/Discussion boards
+### If you want to learn more about a language, listention to other people talk about it can be helpful. Discussion forums of various sorts can give you new ideas and lead you into parts of the language that you wouldn't have otherwise discovered, and expose you to the ways other people think about and use the language. 
+
+- [PyHerald](https://pyherald.com/) - A daily summary of what's happening on various python fora, apparently sourced from official and unofficial python mailing lists and discussion boards. Probably a good read for people who want to know what's going on in the python world but don't have time to follow all of the lists themselves. 
+- [python-ideas](https://mail.python.org/mailman3/lists/python-ideas.python.org/) - This list is mostly about proposals for future development of the python language. Sometimes a bit contentious, sometimes a bit technical. Volume is typically moderate to low, but can surge if a particularly fraught proposal is made. 
+
+
+## Other resource lists
+
+- [Software Engineering: Python for Beginners](https://www.mapcon.com/us-en/software-engineering-python) has a list of other Python resources that could be helpful for beginners.
