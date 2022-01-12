@@ -30,7 +30,6 @@ It's often said that the best way to learn to write programs is to write program
 
 - [A curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning#python)
 
-
 ## Language-agnostic coding challenges
 
 - [Advent of Code](https://adventofcode.com/) is a Christmas-themed problem set that has offered 25 new programming challenges every December since 2015. Each set is a collection of well-made problems that challenge your ability to reason algorithmically. Problems range from moderate to difficult.
@@ -65,12 +64,13 @@ There are thousands of books on programming in Python. This list focuses on titl
 
 - [Python Tricks: The Book](https://realpython.com/products/python-tricks-book/) by Dan Bader. This is a great book for those who are comfortable with the basics of Python and would like to learn some more advanced tricks, such as decorators, abstract base classes, named tuples, and more. The author runs the [Real Python site](https://realpython.com/) which has a lot of in-depth Python tutorials. A short [PDF sample](https://static.realpython.com/python-tricks-book/Python%20Tricks%20Sample.pdf) is available. Libraries: [MLN](https://find.minlib.net/iii/encore/record/C__Rb3739402), [BPL](https://bpl.bibliocommons.com/item/show/12035076981)
 
-## Python Newsletters/Mailing Lists/Discussion boards
-### If you want to learn more about a language, listention to other people talk about it can be helpful. Discussion forums of various sorts can give you new ideas and lead you into parts of the language that you wouldn't have otherwise discovered, and expose you to the ways other people think about and use the language. 
+## Newsletters, mailing lists, discussion boards
 
-- [PyHerald](https://pyherald.com/) - A daily summary of what's happening on various python fora, apparently sourced from official and unofficial python mailing lists and discussion boards. Probably a good read for people who want to know what's going on in the python world but don't have time to follow all of the lists themselves. 
-- [python-ideas](https://mail.python.org/mailman3/lists/python-ideas.python.org/) - This list is mostly about proposals for future development of the python language. Sometimes a bit contentious, sometimes a bit technical. Volume is typically moderate to low, but can surge if a particularly fraught proposal is made. 
+If you want to learn more about a language, listening to other people talk about it can be helpful. Discussion forums can give you new ideas and lead you into parts of the language that you wouldn't have otherwise discovered, and expose you to the ways other people think about and use the language.
 
+- [PyHerald](https://pyherald.com/) - A daily summary of what's happening on various Python forums, apparently sourced from official and unofficial Python mailing lists and discussion boards. Probably a good read for people who want to know what's going on in the Python world but don't have time to follow all of the lists themselves.
+
+- [python-ideas](https://mail.python.org/mailman3/lists/python-ideas.python.org/) - This list is mostly about proposals for future development of the Python language. Sometimes a bit contentious, sometimes a bit technical. Volume is typically moderate to low, but can surge if a particularly fraught proposal is made.
 
 ## Other resource lists
 
