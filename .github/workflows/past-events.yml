@@ -1,0 +1,60 @@
+# This is a workflow which executes add_meetup_events.py every week to scrape the meeteup 
+# page: https://www.meetup.com/bostonpython/events/past/ to pull past events
+# and create it's own event page under past-events and linked to a past-events/index.md
+
+name: Update past-events page
+
+# Controls when the workflow will run
+on:
+  # Run on a schedule
+  schedule:
+    # Run at 2:05am early Sunday morning Eastern time (6/7:05 UTC)
+    # https://crontab.guru/#5_7_*_*_0
+    - cron: "5 7 * * 0"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+          
+      - uses: actions/cache@v1
+        name: Configure pip caching
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+            
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip wheel
+          python -m pip install -r requirements.txt
+          
+      - name: Update past-events index
+        run: |-
+          ls -l past-events/index.md
+          python add_meetup_events.py --rewrite
+          ls -l past-events/index.md
+      
+      - name: Commit and push if  past-events/index.md changed
+        run: |-
+          git diff
+          git config --global user.email "about-bot@example.com"
+          git config --global user.name "about-bot"
+          git diff --quiet || (git add -A && git commit -m "Update Past Events page")
+          git push

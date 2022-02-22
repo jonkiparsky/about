@@ -12,3 +12,5 @@ Boston Python runs four kinds of events:
 - [**Office hour**](officehour.md) is a weekly hour to drop in and ask anything on your mind.
 
 Specific events are listed on the [Boston Python meetup page](http://bostonpython.com).  RSVP there to be sure to get a spot.
+
+You can see our past event [here](past-events/index.md)
