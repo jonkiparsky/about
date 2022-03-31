@@ -10,6 +10,12 @@ Lightning talks are 5-10 minutes long, on any topic of interest to other Python 
 
 * You know that thing you always wish you understood, but haven't figured out yet? Learn it, then **talk about that!**
 
+* Other ideas:
+    - How I contributed to open source
+    - My best mistake
+    - How I learned to do X in Python
+    - This One Weird Python Trick
+
 Things people say when they think they can't do a lightning talk:
 
 * *"Everyone already knows THING_X"*
