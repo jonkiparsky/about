@@ -12,6 +12,8 @@ If you are an employer, you can [announce jobs](jobs.md) and even [sponsor](spon
 
 Other ways to connect with Boston Python people:
 
+[![Meetup](assets/images/meetup_logo.png){: .left-icon}Meetup](https://www.meetup.com/bostonpython/)
+
 [![Twitter](assets/images/Twitter_Social_Icon_Rounded_Square_Color.png){: .left-icon}Twitter](https://twitter.com/bostonpython)
 
 [![LinkedIn](assets/images/LI-In-Bug.png){: .left-icon}LinkedIn group](https://www.linkedin.com/groups/12301683/)
@@ -21,3 +23,4 @@ Other ways to connect with Boston Python people:
 [![YouTube](assets/images/youtube_social_icon_white.png){: .left-icon}YouTube](https://www.youtube.com/user/bostonpython/videos)
 
 [![Email](assets/images/email.png){: .left-icon}Email the leaders](contact)
+
