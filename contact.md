@@ -12,5 +12,6 @@ To reach the organizers, you can send an email to <leaders@bostonpython.com>.  C
 - Mike Milkin -- <mike@bostonpython.com>
 - Jon Kiparsky -- <jon@bostonpython.com>
 - Emily Charles -- <emily@bostonpython.com>
+- Glenn Lehman -- <glenn@bostonpython.com>
 
 We also have a [Slack workspace](slack.md) for online discussions with the entire community.
