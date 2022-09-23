@@ -11,7 +11,6 @@ It's often said that the best way to learn to write programs is to write program
 ## Places to ask for help when you're stuck
 
 - The Boston Python [Slack workspace](https://about.bostonpython.com/slack)
-- [Dream In Code](https://www.dreamincode.net/) is a beginner-friendly discussion-oriented programming forum.
 - [Stack Overflow](https://stackoverflow.com/) is a good place to find quick answers to specific technical questions, but is usually not a good place for involved discussion about logic or problem-solving.
 
 ## Python-specific exercises
