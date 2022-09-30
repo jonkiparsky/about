@@ -19,7 +19,7 @@ It's often said that the best way to learn to write programs is to write program
 
 - [edabit](https://edabit.com/): <q>Learn to code with interactive challenges</q>, with [Python exercises](https://edabit.com/challenges/python3) for all levels.
 
-- [Practice Python](https://www.practicepython.org/): 30+ Python excercises for beginners.
+- [Practice Python](https://www.practicepython.org/): 30+ Python exercises for beginners.
 
 - [CheckIO](https://checkio.org/): Coding games to improve your skills by solving engaging challenges and fun tasks using Python.
 
