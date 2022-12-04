@@ -12,6 +12,7 @@ To reach the organizers, you can send an email to <leaders@bostonpython.com>.  C
 - Glenn Lehman -- <glenn@bostonpython.com>
 - James Gerity -- <james@bostonpython.com>
 - Jon Kiparsky -- <jon@bostonpython.com>
+- Lewis Staples -- <lewis@bostonpython.com>
 - Michelle Fullwood -- <michelle@bostonpython.com>
 - Mike Milkin -- <mike@bostonpython.com>
 
