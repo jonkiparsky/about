@@ -14,7 +14,8 @@ During an event you can make a report:
 In the event of a conflict of interest, you may directly contact any of the incident responders:
 
   * Ned Batchelder, <ned@bostonpython.com>
-  * Brian Rutledge, <brian@bostonpython.com>
+  * Emily Charles, <emily@bostonpython.com>
+  * Jon Kiparsky, <jon@bostonpython.com>
   * Michelle Fullwood, <michelle@bostonpython.com>
 
 ## Report Data

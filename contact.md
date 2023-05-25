@@ -7,7 +7,6 @@ sidebar_sort_order: 999
 To reach the organizers, you can send an email to <leaders@bostonpython.com>.  Current organizers are:
 
 - Ned Batchelder -- <ned@bostonpython.com>
-- Brian Rutledge -- <brian@bostonpython.com>
 - Emily Charles -- <emily@bostonpython.com>
 - Glenn Lehman -- <glenn@bostonpython.com>
 - James Gerity -- <james@bostonpython.com>
