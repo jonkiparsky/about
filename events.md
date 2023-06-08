@@ -6,7 +6,9 @@ sidebar_sort_order: 100
 
 Boston Python runs a number of different events:
 
-- **Presentation nights** feature presentations by members.  These are technical peer-to-peer presentations.  Anyone can do one!  Sometimes we do [lightning talks](lightning.md).
+- **Presentation nights** feature presentations by members. These are technical
+    peer-to-peer presentations. [Anyone can do one!](giving-a-presentation.md) Sometimes we do
+    [lightning talks](lightning.md).
 - **Collaboration nights** are unstructured times to sit with people with similar interests, and do whatever you would like to do.
 - **Study Group** features presentations by members who are beginner-to-intermediate. Each presenter chooses a topic that they're unfamiliar with, researches it, and then teaches the group what they've learned.
 - **Office hour** is a weekly hour to drop in and ask anything on your mind: [Office hour](officehour.md).
