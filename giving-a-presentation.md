@@ -40,5 +40,5 @@ If you're interested in presenting to the Boston Python community, and you have
 a topic in mind, you can start by filling out
 [this form](https://docs.google.com/forms/d/1ndedcjLoPiq6k_A7Q1eyxHk_8rMKBC-m2CZ6Pg9NlvE/edit).
 If you have questions about giving a presentation, you can always reach out to
-an organizer on the Boston Python [slack channel](slack.md) (Jon, Ned, and
+an organizer in the Boston Python [Slack workspace](slack.md) (Jon, Ned, and
 James are good bets to start with).
