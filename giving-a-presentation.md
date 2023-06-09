@@ -17,7 +17,7 @@ to share, and our community wants to hear you share it.
 If you're not sure whether you've got a Boston Python presentation in you, take
 this quiz:
 
-- Have you learned something about the python language?
+- Have you learned something about the Python language or ecosystem?
 - Has it been useful to you?
 - Do you think someone else might find it useful?
 
