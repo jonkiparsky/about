@@ -4,7 +4,7 @@ sidebar_link: false
 ---
 
 Boston Python's presentation events are a place for members of our community
-to share what they've learned about making python programs. Giving a
+to share what they've learned about making Python programs. Giving a
 presentation to our audience is a way to give back to the community, and it
 helps you understand the subject matter better - it's a win all around!
 
