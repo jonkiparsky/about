@@ -9,7 +9,7 @@ presentation to our audience is a way to give back to the community, and it
 helps you understand the subject matter better - it's a win all around!
 
 Presenters do not need to be "experts", they do not need to have contributed to
-the python language, created a library, or written a book. Anyone who has worked
+the Python language, created a library, or written a book. Anyone who has worked
 with the language and learned something interesting from doing so has something
 to share, and our community wants to hear you share it.
 
