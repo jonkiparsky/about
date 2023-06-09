@@ -25,7 +25,7 @@ If you answered "yes" to any of those questions, there's a presentation waiting
 to happen - and we'll help you find it, if you want.
 
 ### What sorts of talks are you interested in?
-We're open to topics of interest to a community of python users and learners,
+We're open to topics of interest to a community of Python users and learners,
 ranging from quick "lightning talks" to deep-dive talks. Ideally, talks should
 be pitched to an audience including users of all levels, from beginner to
 experienced professional.
