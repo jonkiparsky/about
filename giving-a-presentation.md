@@ -33,7 +33,8 @@ experienced professional.
 ### But really, what should I talk about?
 If you think a topic would be interesting to you, that's a good start! To
 inspire you, we have a long list of [past talks](https://about.bostonpython.com/past-events/)
-If you're still not sure, reach out to an organizer and we'll help you find a topic.
+If you're still not sure, reach out to an organizer by [email](contact.md) 
+or on [slack](slack.md) and we'll help you find a topic.
 
 ### Okay, I'm interested. Where do I start?
 If you're interested in presenting to the Boston Python community, and you have
