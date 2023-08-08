@@ -67,7 +67,6 @@ In case of a conflict of interest, you can individually contact one of the organ
   * Ned Batchelder, <ned@bostonpython.com>
   * Emily Charles, <emily@bostonpython.com>
   * Jon Kiparsky, <jon@bostonpython.com>
-  * Michelle Fullwood, <michelle@bostonpython.com>
 
 Boston Python staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of any event. We value your attendance.
 
