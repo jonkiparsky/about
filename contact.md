@@ -8,7 +8,6 @@ To reach the organizers, you can send an email to <leaders@bostonpython.com>.  C
 
 - Ned Batchelder -- <ned@bostonpython.com>
 - Emily Charles -- <emily@bostonpython.com>
-- Glenn Lehman -- <glenn@bostonpython.com>
 - James Gerity -- <james@bostonpython.com>
 - Jon Kiparsky -- <jon@bostonpython.com>
 - Jose Ramirez -- <jose@bostonpython.com>
