@@ -16,7 +16,7 @@ On classic **presentation nights**, we have up to 100 people in attendance, some
 
 As a sponsor, you will get a chance to **speak to the crowd** at the event, and pitch your company (or whatever it is you have to pitch). Sponsors generally speak for a minute or two. Up to five minutes isn't unheard of, but starts to feel long. People lose interest if the pitch is too lengthy.
 
-When sponsoring **pizza**, a Boston Python organizer will purchase the pizza.  You can pay by making a donation to the Python Software Foundation at <http://donate.bostonpython.com>. When sponsoring **drinks** at the bar, you bring a credit card and work it out with the bartender there.
+When sponsoring **pizza**, a Boston Python organizer will purchase the pizza.  You can pay by making a donation to the Python Software Foundation at <http://donate.bostonpython.com>.
 
 The night of the event, we can provide table space for you to put out materials, or hand out swag if you want, but that is not expected or required.
 
