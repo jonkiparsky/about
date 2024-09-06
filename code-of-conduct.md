@@ -67,7 +67,6 @@ In case of a conflict of interest, you can individually contact one of the organ
   * Ned Batchelder, <ned@bostonpython.com>
   * Emily Charles, <emily@bostonpython.com>
   * Jon Kiparsky, <jon@bostonpython.com>
-  * Michelle Fullwood, <michelle@bostonpython.com>
 
 Boston Python staff will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist any attendee to feel safe for the duration of any event. We value your attendance.
 
@@ -80,6 +79,6 @@ Boston Python staff will be happy to help participants contact venue security or
 
 This Code of Conduct was forked from the [PyCon US Code of Conduct](https://github.com/python/pycon-code-of-conduct/blob/master/code_of_conduct.md), which details the sources of its language.
 
-[![Creative Commons License](http://i.creativecommons.org/l/by/3.0/88x31.png)](http://creativecommons.org/licenses/by/3.0/)
+[![Creative Commons License](https://i.creativecommons.org/l/by/3.0/88x31.png)](https://creativecommons.org/licenses/by/3.0/)
 
-This Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
+This Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/).
