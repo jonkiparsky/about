@@ -2,13 +2,19 @@
 title: Home
 ---
 
-Boston Python is a large and vibrant Python user group in the Boston area.  We run [four kinds of events](events.md). Anyone interested in any aspect of the Python world is welcome!
+Boston Python is a large and vibrant Python user group in the Boston area.  We
+run [four kinds of events](events.md). Anyone interested in any aspect of the
+Python world is welcome!
 
 We use [Slack](slack.md) for online discussions.
 
 All of our interactions are covered by our [code of conduct](code-of-conduct.md).
 
-If you are an employer, you can [announce jobs](jobs.md) and even [sponsor](sponsorship.md) or [host](hosting.md) events.
+If you are an employer, you can [announce jobs](jobs.md) and even
+[sponsor](sponsorship.md) or [host](hosting.md) events.
+
+We appreciate [our sponsors](our_sponsors.md)! Learn more about the organizations
+that support us.
 
 Other ways to connect with Boston Python people:
 
@@ -23,4 +29,3 @@ Other ways to connect with Boston Python people:
 [![YouTube](assets/images/youtube_social_icon_white.png){: .left-icon}YouTube](https://www.youtube.com/user/bostonpython/videos)
 
 [![Email](assets/images/email.png){: .left-icon}Email the leaders](contact)
-
