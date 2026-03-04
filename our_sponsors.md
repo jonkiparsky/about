@@ -16,6 +16,7 @@ have supported us over the last two decades.
 
 
 ## Past Sponsors
+
 |![Planet Technology Logo](./assets/images/sponsors/PlanetTechnology.png)|[Planet Technology](https://planet-technology.com/)|
 |![Vinta Logo](./assets/images/sponsors/Vinta.jpeg)|[Vinta](https://www.vinta.com.br/)|
 |![Cambridge Mobile Telematics](./assets/images/sponsors/CMT.jpeg)|[Cambridge Mobile Telematics](https://www.cmtelematics.com/)|
