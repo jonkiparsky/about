@@ -10,9 +10,9 @@ have supported us over the last two decades.
 
 ## Current Sponsors
 
-|![CarGurus Logo](./assets/images/sponsors/cargurus_ss.png)|[CarGurus](https://www.cargurus.com/) is a regular host and sponsor|
-|![Microsoft Logo](./assets/images/sponsors/MSFT_Logo_2.png)|The Microsoft NERD Center is a long-time regular event host|
-|![DataDog Logo](./assets/images/sponsors/DataDog.jpeg) | [DataDog](https://www.datadoghq.com/) is a regular event host and sponsor|
+|![CarGurus Logo](./assets/images/sponsors/cargurus_ss.png|width=32)|[CarGurus](https://www.cargurus.com/) is a regular host and sponsor|
+|![Microsoft Logo](./assets/images/sponsors/MSFT_Logo_2.png|width=32)|The Microsoft NERD Center is a long-time regular event host|
+|![DataDog Logo](./assets/images/sponsors/DataDog.jpeg|width=32) | [DataDog](https://www.datadoghq.com/) is a regular event host and sponsor|
 
 
 ## Past Sponsors
